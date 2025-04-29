@@ -29,7 +29,7 @@ The project is organized into two main directories:
 
 1. Clone the repository
 ```
-git clone https://github.com/yourusername/snipstash.git
+git clone https://github.com/rajnsunny/SnipStash.git
 cd snipstash
 ```
 
